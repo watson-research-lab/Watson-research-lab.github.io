@@ -2,7 +2,7 @@
 title: 'GlucoScan: Noninvasive Glucose Monitoring Device'
 authors:
 - Claire Kendell
-- Amanda Watson
+- admin
 - Insup Lee
 - James Weimer
 date: '2022-01-01'

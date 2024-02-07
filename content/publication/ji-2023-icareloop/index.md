@@ -4,7 +4,7 @@ authors:
 - Xiayan Ji
 - Ahhyun Yuh
 - Hyonyoung Choi
-- Amanda Watson
+- admin
 - Claire Kendell
 - Xian Li
 - James Weimer

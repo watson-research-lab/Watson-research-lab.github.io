@@ -3,7 +3,7 @@ title: 'LAX-Score: Quantifying Team Performance in Lacrosse and Exploring IMU Fe
   towards Performance Enhancement'
 authors:
 - Woosub Jung
-- Amanda Watson
+- admin
 - Scott Kuehn
 - Erik Korem
 - Ken Koltermann

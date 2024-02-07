@@ -5,7 +5,7 @@ authors:
 - Xiayan Ji
 - Xian Li
 - Ahhyun Yuh
-- Amanda Watson
+- admin
 - Claire Kendell
 - James Weimer
 - Hajime Nagahara
