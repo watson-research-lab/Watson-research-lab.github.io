@@ -3,7 +3,7 @@ title: 'A pain free nociceptor: Predicting football injuries with machine learni
 authors:
 - Andrew Lyubovsky
 - Zhenming Liu
-- Amanda Watson
+- admin
 - Scott Kuehn
 - Erik Korem
 - Gang Zhou

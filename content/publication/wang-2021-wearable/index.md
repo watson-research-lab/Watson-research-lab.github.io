@@ -3,7 +3,7 @@ title: Wearable motion sensor-based chewing side detection
 authors:
 - Shuangquan Wang
 - Gang Zhou
-- Amanda Watson
+- admin
 - Lei Xie
 - Minglong Sun
 - Woosub Jung

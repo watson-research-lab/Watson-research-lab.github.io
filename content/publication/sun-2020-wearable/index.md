@@ -2,7 +2,7 @@
 title: "Wearable computing of freezing of gait in parkinson's disease: a survey"
 authors:
 - Minglong Sun
-- Amanda Watson
+- admin
 - Gang Zhou
 date: '2020-01-01'
 publishDate: '2023-11-09T04:01:28.431937Z'

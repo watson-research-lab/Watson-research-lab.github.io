@@ -4,10 +4,10 @@ title: 'Mako: Semi-supervised continual learning with minimal labeled data via d
 authors:
 - Pengyuan Lu
 - Seungwon Lee
-- Amanda Watson
+- admin
 - David Kent
 - Insup Lee
-- ERIC EATON
+- Eric Eatson
 - James Weimer
 date: '2021-01-01'
 publishDate: '2023-11-09T04:01:28.473846Z'

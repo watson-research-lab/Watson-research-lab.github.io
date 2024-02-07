@@ -4,10 +4,10 @@ title: Bridging the Gap between Semi-supervised and Supervised Continual Learnin
 authors:
 - Pengyuan Lu
 - Seungwon Lee
-- Amanda Annette Watson
+- admin
 - David Kent
 - Insup Lee
-- ERIC EATON
+- Eric Eaton
 - James Weimer
 date: '2022-01-01'
 publishDate: '2023-11-09T04:01:28.485707Z'

@@ -3,7 +3,7 @@ title: IMPACT OF VIBRATION ON TREMOR IN OLDER ADULTS WITH PARKINSON’S DISEASE
 authors:
 - Ingrid Pretzer-Aboff
 - RK Elswick
-- Amanda Watson
+- admin
 - Minglong Sun
 - Woosub Jung
 - Ken Koltermann

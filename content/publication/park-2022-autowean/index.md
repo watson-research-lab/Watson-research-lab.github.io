@@ -2,7 +2,7 @@
 title: 'Autowean: Extubation failure risk estimation for critically ill patients'
 authors:
 - Jean Park
-- Amanda Watson
+- admin
 - Xiayan Ji
 - Kyle C Quinn
 - James Weimer

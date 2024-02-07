@@ -5,7 +5,7 @@ authors:
 - Woosub Jung
 - Kenneth Koltermann
 - Gang Zhou
-- Amanda Watson
+- admin
 - Ginamari Blackwell
 - Noah Helm
 - Leslie Cloud
