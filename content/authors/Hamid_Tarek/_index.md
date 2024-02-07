@@ -35,9 +35,6 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: cv
-    icon_pack: ai
-    xlink: https://tarek-hamid.github.io
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pve8nt@virginia.edu'
