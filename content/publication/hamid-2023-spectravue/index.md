@@ -2,9 +2,9 @@
 title: SpectraVue-An Interactive Web Application Enabling Rapid Data Visualization
   and Analysis for Wearable Spectroscopy Research
 authors:
-- Tarek Hamid
+- Hamid_Tarek
 - Insup Lee
-- Amanda Watson
+- admin
 date: '2023-01-01'
 publishDate: '2023-11-09T04:01:28.509412Z'
 publication_types:

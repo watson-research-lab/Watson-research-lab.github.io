@@ -5,7 +5,7 @@ authors:
 - Amanda Lor
 - Mike Megonegal
 - Xiayan Ji
-- Amanda Watson
+- admin
 - James Weimer
 - Insup Lee
 date: '2021-01-01'
