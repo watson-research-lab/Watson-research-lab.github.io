@@ -30,6 +30,15 @@ organizations:
 interests:
   - Medical Devices
   - Machine Learning
+  
+education:
+  courses:
+    - course: MS in Biomedical Engineering
+      institution: The Johns Hopkins University
+      year: 2019
+    - course: Bachelors in Biomedical Engineering
+      institution: The College of New Jersey
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
