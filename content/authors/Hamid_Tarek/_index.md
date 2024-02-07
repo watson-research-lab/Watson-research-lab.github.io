@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Tarek Hamid
+external_link: https://tarek-hamid.github.io
 
 # Full name (for SEO)
 first_name: Tarek
