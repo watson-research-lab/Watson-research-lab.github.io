@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Tarek Hamid
-external_link: https://tarek-hamid.github.io
 
 # Full name (for SEO)
 first_name: Tarek
@@ -17,6 +16,9 @@ superuser: false
 # Role/position
 role: Computer Engineering
 
+# Optional external URL for author (replaces author detail page).
+external_link: https://tarek-hamid.github.io
+
 # Organizations/Affiliations
 organizations:
   - name: UVA
@@ -28,7 +30,6 @@ organizations:
 interests:
   - Medical Devices
   - Machine Learning
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
