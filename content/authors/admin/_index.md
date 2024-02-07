@@ -10,7 +10,7 @@ last_name: Watson
 superuser: true
 
 # Role/position
-role: Professor of Electrical and Computer Engineering
+role: Assistant Professor of Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
