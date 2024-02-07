@@ -6,7 +6,7 @@ authors:
 - Sooyong Jang
 - Alexander Lee
 - Sydney Pugh
-- Amanda Watson
+- admin
 - Ragnhildur I Bjarnadóttir
 - Robert Lucero
 - George Demiris

@@ -2,7 +2,7 @@
 title: 'Dove: shoulder-based opioid overdose detection and reversal device'
 authors:
 - Anush Lingamoorthy
-- Amanda Watson
+- admin
 - Korey Henderson
 - Ayan Mandal
 - David Gordon

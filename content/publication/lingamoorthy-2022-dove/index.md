@@ -2,7 +2,7 @@
 title: 'DOVE: Noninvasive Shoulder-based Opioid Overdose Detection Device'
 authors:
 - Anush Lingamoorthy
-- Amanda Watson
+- admin
 - Ethan Donlon
 - James Weimer
 - Jacob S Brenner
