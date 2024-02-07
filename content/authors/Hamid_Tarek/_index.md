@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Computer Engineering
 
 # Organizations/Affiliations
 organizations:

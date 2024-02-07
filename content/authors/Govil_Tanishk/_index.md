@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrduate Student
+role: Computer Science
 
 # Organizations/Affiliations
 organizations:
