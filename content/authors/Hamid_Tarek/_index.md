@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - PhD Students
 ---
 
 Tarek Hamid is a PhD Student in Computer Engineering at the University of Virginia. His research interests include Wearable Technology, Digital Health, Medical Cyber-Physical Systems, and Machine Learning. He has previously held roles at companies such as Johnson & Johnson, the Department of Defense, JPMorgan Chase, and Sotera Digital Health. He currently holds an MS in biomedical engineering from Johns Hopkins University and a BS in biomedical engineering from the College of New Jersey. 
