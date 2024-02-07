@@ -14,9 +14,9 @@ sections:
           - Principal Investigators
           - Faculty
           - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
+          - PhD Students
+          - Masters Students
+          - Undergraduate Students
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
