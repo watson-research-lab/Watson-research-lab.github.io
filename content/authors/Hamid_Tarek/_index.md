@@ -40,10 +40,10 @@ social:
     xlink: https://tarek-hamid.github.io
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:pve8nt@virginia.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=07cpc1QAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
     link: https://github.com/tarek-hamid
