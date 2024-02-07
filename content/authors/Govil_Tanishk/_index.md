@@ -54,8 +54,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-#   - PhD Student
+user_groups:
+   - Undergraduate Students
 ---
 
 Tanishk Govil is an Undergraduate Student pursuing his Bachelors in Computer Science at the University of Virginia. His research interests include Smart Health, Autonomous Robotics, High Performance Athletics, and Machine Learning. He is a member of the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
