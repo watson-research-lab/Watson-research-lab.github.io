@@ -1,7 +1,7 @@
 ---
 title: 'TracKnee: Knee angle measurement using stretchable conductive fabric sensors'
 authors:
-- Amanda Watson
+- admin
 - Minglong Sun
 - Samhita Pendyal
 - Gang Zhou

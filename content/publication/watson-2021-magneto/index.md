@@ -1,7 +1,7 @@
 ---
 title: 'Magneto: joint angle analysis using an electromagnet-based sensing method'
 authors:
-- Amanda Watson
+- admin
 - Andrew Lyubovsky
 - Kenneth Koltermann
 - Gang Zhou

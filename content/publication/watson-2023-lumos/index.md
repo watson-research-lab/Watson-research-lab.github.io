@@ -1,7 +1,7 @@
 ---
 title: 'Lumos: An Open-Source Device for Wearable Spectroscopy Research'
 authors:
-- Amanda Watson
+- admin
 - Claire Kendell
 - Anush Lingamoorthy
 - Insup Lee

@@ -1,7 +1,7 @@
 ---
 title: Microsleep prediction using an EKG capable heart rate monitor
 authors:
-- Amanda Watson
+- admin
 - Gang Zhou
 date: '2016-01-01'
 publishDate: '2023-11-09T03:52:57.694166Z'

@@ -1,7 +1,7 @@
 ---
 title: Magnetic-based motion monitoring for two objects sharing common joint
 authors:
-- Amanda Watson
+- admin
 - Andrew Lyubovsky
 - Gang Zhou
 date: '2021-11-01'

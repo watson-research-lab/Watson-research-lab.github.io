@@ -2,7 +2,7 @@
 title: 'Rt-acl: Identification of high-risk youth patients and their most significant
   risk factors to reduce anterior cruciate ligament reinjury risk'
 authors:
-- Amanda Watson
+- admin
 - Pengyuan Lu
 - Elliot Greenberg
 - J Todd R Lawrence

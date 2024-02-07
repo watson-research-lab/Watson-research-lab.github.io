@@ -1,7 +1,7 @@
 ---
 title: 'Raproto: an open source platform for rapid prototyping of wearable medical devices'
 authors:
-- Amanda Watson
+- admin
 - Hyonyoung Choi
 - Insup Lee
 - James Weimer

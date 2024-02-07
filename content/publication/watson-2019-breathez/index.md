@@ -1,7 +1,7 @@
 ---
 title: 'BreathEZ: Using smartwatches to improve choking first aid'
 authors:
-- Amanda Watson
+- admin
 - Gang Zhou
 date: '2019-01-01'
 publishDate: '2023-11-09T04:01:28.503636Z'

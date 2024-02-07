@@ -1,7 +1,7 @@
 ---
 title: 'Medical Cyber-Physical Systems: IoMT Applications and Challenges'
 authors:
-- Amanda Watson
+- admin
 - Jean Park
 - Sydney Pugh
 - Oleg Sokolsky
