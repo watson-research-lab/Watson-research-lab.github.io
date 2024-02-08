@@ -3,7 +3,7 @@
 title: Elizabeth Courtney
 
 # Full Name (for SEO)
-first_name: Elizabeth 
+first_name: Elizabeth
 last_name: Courtney
 
 # Is this the primary user of the site?
@@ -25,7 +25,7 @@ interests:
   - Wearable Technology
   - Embedded Systems
   - Machine Learning
-  
+
 education:
   courses:
     - course: Current Bachelors in Electrical Engineering
@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Student
+  - Undergraduate Students
 ---
 
 Elizabeth Courtney is an undergraduate student pursuing her Bachelors in Electrical Engineering at the University of Virginia. Her research interests include medical devices, wearable technology, machine learning, and embedded systems.
