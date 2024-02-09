@@ -10,7 +10,7 @@ icon_pack: fas
 title: Bambu Lab X1-Carbon 3D Printer
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
----
+--- 
 
 ## The Equipment
 
