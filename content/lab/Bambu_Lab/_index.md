@@ -12,22 +12,12 @@ date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
-## Features
-
-The [Voltera Nova](https://www.voltera.io/nova) is a 3D printer capable of producing flexible hybrid electronics and PCBs.
-
-This feature can be used for publishing content such as:
-
-- **Online courses**
-- **Project or software documentation**
-- **Tutorials**
-- **Notes**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
 ## The Equipment
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+The [Bambu Lab X1-Carbon 3D Printer](https://us.store.bambulab.com/products/x1-carbon-3d-printer) is a high speed and quality 3D printer that has multi-color and multi-material capabilities.
+
+**PICTURE**
+
 
 ## How to Use It
 
