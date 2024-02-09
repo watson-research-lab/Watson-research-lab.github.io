@@ -1,3 +1,9 @@
+---
+title: Lab Page 1
+date: 2024-02-08
+type: book
+---
+
 # Page title
 title: An Example Course
 
