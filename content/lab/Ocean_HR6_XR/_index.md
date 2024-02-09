@@ -14,9 +14,9 @@ type: book # Do not modify.
 
 ## The Equipment
 
-The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/) is a high sensitivity, high resolution spectrometer that covers the wavelength range from 185 nm to 1100 nm.
+The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/) is a high sensitivity, high resolution spectrometer that covers the wavelength range from 185 nm to 1100 nm. This piece of equipment is coupled with the [SQUARE ONE Cuvette Holder](https://www.oceaninsight.com/products/sampling-accessories/liquid-sampling/cuvette-holders/sq1-all/?qty=1).
 
-**DIAGRAM PICTURE**
+**DIAGRAM PICTURE in the works**
 
 ## Software Needed
 words
