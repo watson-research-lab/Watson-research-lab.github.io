@@ -17,7 +17,7 @@ type: book # Do not modify.
 The [Voltera Nova](https://www.voltera.io/nova) is a 3D printer capable of producing flexible hybrid electronics and PCBs.
 
 Notable Features:
-
+ 
 - **Online courses**
 - **Project or software documentation**
 - **Tutorials**
