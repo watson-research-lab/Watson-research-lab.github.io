@@ -18,6 +18,9 @@ The [Energetiq TLS-EQ-9-S](https://www.energetiq.com/tls-eq-9-tunable-light-sour
 
 **PICTURE**
 
+## Software Needed
+- TLS Software
+- NI LabvVIEW Runtime
  
 ## How to Use It
 
