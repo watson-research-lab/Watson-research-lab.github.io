@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Energetiq TLS-EQ-9-S
-summary:Learn about and how to use LDTLS
+summary: Learn about and how to use LDTLS
 weight: 1
 icon: book
 icon_pack: fas
