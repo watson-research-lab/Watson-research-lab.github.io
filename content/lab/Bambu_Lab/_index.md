@@ -12,9 +12,9 @@ date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
-## Flexibility
+## Features
 
-Document everything!
+The [Voltera Nova](https://www.voltera.io/nova) is a 3D printer capable of producing flexible hybrid electronics and PCBs.
 
 This feature can be used for publishing content such as:
 
@@ -25,11 +25,11 @@ This feature can be used for publishing content such as:
 
 The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
-## Delete courses
+## The Equipment
 
 **To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
 
-## Update site menu
+## How to Use It
 
 After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
 
@@ -51,6 +51,5 @@ Or, if you are creating a software documentation site, you can rename the `cours
   weight = 50
 ```
 
-## Update the docs menu
-
+## Overall User Manual
 If you use the _docs_ layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
