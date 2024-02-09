@@ -19,7 +19,8 @@ The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/pro
 **DIAGRAM PICTURE in the works**
 
 ## Software Needed
-words
+- Ocean View
+- Ocean Direct
 
 ## How to Use It
 
