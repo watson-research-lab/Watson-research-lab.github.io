@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Bambu Lab X1-Carbon 3D Printer
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Learn about and how to use Bambu Lab 3D Printer
 weight: 1
 icon: book
 icon_pack: fas
