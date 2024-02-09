@@ -12,24 +12,14 @@ date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
-## Flexibility
+## The Equipment
 
-Document everything!
+The [Energetiq TLS-EQ-9-S](https://www.energetiq.com/tls-eq-9-tunable-light-source) is a laser driven tunable light source that produces a wavelength range from 380 nm to 1100 nm with an accuracy of +/- 0.5 nm
 
-This feature can be used for publishing content such as:
+**PICTURE**
 
-- **Online courses**
-- **Project or software documentation**
-- **Tutorials**
-- **Notes**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
-## Delete courses
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
+ 
+## How to Use It
 
 After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
 
