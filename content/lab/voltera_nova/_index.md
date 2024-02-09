@@ -26,6 +26,8 @@ Notable Features:
 What it looks like:
 **DIAGRAM PICTURE**
 
+## Software Needed
+words
 
 ## How to Use It
 
