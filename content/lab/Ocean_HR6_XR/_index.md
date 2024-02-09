@@ -12,26 +12,20 @@ date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
-## Flexibility
+## The Equipment
 
-Document everything!
+The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/) is a high sensitivity, high resolution spectrometer that covers the wavelength range from 185 nm to 1100 nm.
 
-This feature can be used for publishing content such as:
+**DIAGRAM PICTURE**
 
-- **Online courses**
-- **Project or software documentation**
-- **Tutorials**
-- **Notes**
+## Software Needed
+words
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+## How to Use It
 
-## Delete courses
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+1. step
+2. step
+3. more steps
 
 For example, if you delete this folder, you can remove the following from your menu configuration:
 
@@ -51,6 +45,5 @@ Or, if you are creating a software documentation site, you can rename the `cours
   weight = 50
 ```
 
-## Update the docs menu
-
-If you use the _docs_ layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+## Overall User Manual
+If you use the _docs_ layout, note that the name of the
