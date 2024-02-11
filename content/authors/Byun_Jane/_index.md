@@ -55,8 +55,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
- # - PhD Student
+user_groups:
+  - Undergraduate Students
 ---
 Jane Byun is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. SHe is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
 
