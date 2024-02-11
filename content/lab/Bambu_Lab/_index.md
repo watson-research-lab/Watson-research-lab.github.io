@@ -1,24 +1,24 @@
 ---
 # Title, summary, and page position.
-linktitle: Voltera Nova
-summary: Learn about and how to use Voltera Nova.
+linktitle: Bambu Lab X1-Carbon 3D Printer
+summary: Learn about and how to use Bambu Lab 3D Printer
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Voltera Nova
+title: Bambu Lab X1-Carbon 3D Printer
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
----
+--- 
 
 ## The Equipment
 
-The [Voltera Nova](https://www.voltera.io/nova) is a 3D printer capable of producing flexible hybrid electronics and PCBs.
+The [Bambu Lab X1-Carbon 3D Printer](https://us.store.bambulab.com/products/x1-carbon-3d-printer) is a high speed and quality 3D printer that has multi-color and multi-material capabilities.
 
-**DIAGRAM PICTURE**
+**PICTURE**
 
-## Software Needed
+ ## Software Needed
 words
 
 ## How to Use It
@@ -43,5 +43,3 @@ Or, if you are creating a software documentation site, you can rename the `cours
   weight = 50
 ```
 
-## Overall User Manual
-If you use the _docs_ layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
