@@ -43,9 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:rjr5dn@virginia.edu'
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:janebyun0901@gmail.com'
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/jane-byun-9439222a3
@@ -58,5 +55,5 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-Jane Byun is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. SHe is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
+Jane Byun is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. She is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
 
