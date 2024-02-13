@@ -51,4 +51,4 @@ More information can be found on the [Voltera site](https://docs.voltera.io/nova
 
 
 ## Company Links for Equipment
-[Voltera Nova](https://www.voltera.io/nova)
+- [Voltera Nova](https://www.voltera.io/nova)
