@@ -7,15 +7,15 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Ocean HR6 XR High-Resolution Spectrometer
+title: Ocean HR6 XR High-Resolution Spectrometer.
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
 ## The Equipment
-
-<img src="/content/lab/Ocean_HR6_XR/IMG_1442.PNG" align="left" width="400px"/>
 The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/) is a high sensitivity, high resolution spectrometer that covers the wavelength range from 185 nm to 1100 nm. This piece of equipment is coupled with the [SQUARE ONE Cuvette Holder](https://www.oceaninsight.com/products/sampling-accessories/liquid-sampling/cuvette-holders/sq1-all/?qty=1).
+<img src="/content/lab/Ocean_HR6_XR/IMG_1442.PNG" align="left" width="400px"/>
+words
 
 <br clear="left"/>
 
