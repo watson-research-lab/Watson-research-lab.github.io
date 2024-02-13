@@ -73,5 +73,5 @@ The Bambu Lab X1-Carbon 3D Printer is a high speed and quality 3D printer that h
 
 
 ## Company Links for Equipment
-[Bambu Lab X1-Carbon 3D Printer](https://us.store.bambulab.com/products/x1-carbon-3d-printer)
+- [Bambu Lab X1-Carbon 3D Printer](https://us.store.bambulab.com/products/x1-carbon-3d-printer)
 
