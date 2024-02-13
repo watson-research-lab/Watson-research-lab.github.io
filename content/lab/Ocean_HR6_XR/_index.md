@@ -14,7 +14,7 @@ type: book # Do not modify.
 
 ## The Equipment
 <img src="/content/lab/Ocean_HR6_XR/IMG_1447.JPG" align="left" width="400px"/>
-The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/) is a high sensitivity, high resolution spectrometer that covers the wavelength range from 185 nm to 1100 nm. This piece of equipment is coupled with the [SQUARE ONE Cuvette Holder](https://www.oceaninsight.com/products/sampling-accessories/liquid-sampling/cuvette-holders/sq1-all/?qty=1).
+The Ocean HR6 XR High-Resolution Spectrometer is a high sensitivity, high resolution spectrometer that covers the wavelength range from 185 nm to 1100 nm. This piece of equipment is coupled with the SQUARE ONE Cuvette Holder.
 
 <br clear="left"/>
 
@@ -24,9 +24,9 @@ The [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/pro
 
 ## How to Use It
 
-1. step
-2. step
-3. more steps
+1. Ensure that the spectrometer, cuvette holder, and LDTLS are connected together with the fiver optic cables
+2. Plug the spectrometer and LDTLS into a computer fitted with the software listed above
+3. Open the Ocean View software and nagivate to 
 
 For example, if you delete this folder, you can remove the following from your menu configuration:
 
@@ -47,6 +47,5 @@ Or, if you are creating a software documentation site, you can rename the `cours
 ```
 
 ## Company Links for Equipment
-[Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/)
-[SQUARE ONE Cuvette Holder](https://www.oceaninsight.com/products/sampling-accessories/liquid-sampling/cuvette-holders/sq1-all/?qty=1)
+- [Ocean HR6 XR High-Resolution Spectrometer](https://www.oceaninsight.com/products/spectrometers/high-resolution/ocean-hr6-series-spectrometers/ocean-hr6-xr-spectrometers/) & [SQUARE ONE Cuvette Holder](https://www.oceaninsight.com/products/sampling-accessories/liquid-sampling/cuvette-holders/sq1-all/?qty=1)
 
