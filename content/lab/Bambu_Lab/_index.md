@@ -19,8 +19,7 @@ The [Bambu Lab X1-Carbon 3D Printer](https://us.store.bambulab.com/products/x1-c
 ![Bambu](/content/lab/Bambu_Lab/IMG_1444.PNG)
 
  ## Software Needed
-words
-
+- Bambu Studio
 ## How to Use It
 
 After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
