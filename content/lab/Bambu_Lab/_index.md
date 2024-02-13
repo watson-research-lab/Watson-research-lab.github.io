@@ -16,7 +16,7 @@ type: book # Do not modify.
 
 The [Bambu Lab X1-Carbon 3D Printer](https://us.store.bambulab.com/products/x1-carbon-3d-printer) is a high speed and quality 3D printer that has multi-color and multi-material capabilities.
 
-![Bambu](/Watson-research-lab.github.io/content/lab/Bambu_Lab/IMG_1444.PNG)
+![Bambu](/content/lab/Bambu_Lab/IMG_1444.PNG)
 
  ## Software Needed
 words
