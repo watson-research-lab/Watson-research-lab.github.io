@@ -68,7 +68,7 @@ The Bambu Lab X1-Carbon 3D Printer is a high speed and quality 3D printer that h
 
 **Notes on Print Bed Adhesion**
 - Use glue stick for print bed adhesion
-- if new layer is needed, clean the plate, apply an even layer of glue, let it dry so its not too tacky
+- If new layer is needed, clean the plate, apply an even layer of glue, let it dry so its not too tacky
 - Note: try to apply glue in same direction
 
 
