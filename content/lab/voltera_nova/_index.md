@@ -13,35 +13,42 @@ type: book # Do not modify.
 ---
 
 ## The Equipment
+<img src="/content/lab/voltera_nova/IMG_1448.JPG" align="left" width="400px"/>
+The Voltera Nova is a 3D printer capable of producing flexible hybrid electronics and PCBs.
 
-The [Voltera Nova](https://www.voltera.io/nova) is a 3D printer capable of producing flexible hybrid electronics and PCBs.
-
-**DIAGRAM PICTURE**
+<br clear="left"/>
 
 ## Software Needed
 words
 
 ## How to Use It
+**Setting Up**
+1. Power on Nova
+2. Navigate to [myvoltera.io](https://myvoltera.io/)
+3. Sign up for an account (or log in)
+4. Select the Nova device (the device name is on the right side of the machine)
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+**Adding Materials**
+1. Select the "Materials" tile on the software home screen
+2. Select the "Explore" tile to find the desired materials
+3. Once you have found and selected the materials, click "add to library"
+4. If substrate or paste settings need to be adjusted, select the "Library" tile to configure these
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+**Assembling the Dispenser**
+1. Mount the pressure sensor
+2. Attach the nozzle
+3. Secure the pressure sensor and nozzle
+4. Insert a material
+5. Mount the motor plunger
+6. Mount to Nova
+(For detailed images of this process, visit [this link](https://docs.voltera.io/nova/getting-started/your-first-print-with-nova/2.-dispenser-assembly)
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
+**Printing**
+1. From the software home screen, select the "Dispense" tile
+2. 
+More information can be found on the [Voltera site](https://docs.voltera.io/nova/getting-started/welcome-to-nova).
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated _Courses_ menu configuration to:
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
 
-## Overall User Manual
-If you use the _docs_ layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+## Company Links for Equipment
+[Voltera Nova](https://www.voltera.io/nova)
