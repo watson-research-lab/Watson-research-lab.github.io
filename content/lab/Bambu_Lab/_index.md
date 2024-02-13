@@ -25,11 +25,11 @@ The Bambu Lab X1-Carbon 3D Printer is a high speed and quality 3D printer that h
 - Bambu Studio
 
 ## How to Use It
-Setting Up Bambu Studio
+**Setting Up Bambu Studio**
 1. Navigate to the link above and download the software
 2. Once the software has downloaded, select the green "All" button for filament selection and "Bambu Lab X1 Carbon 0.4mm Nozzle" for printer selection
 
-# Preparing the Print
+**Preparing the Print**
 1. On the left side of the screen, ensure the printer is "Bambu Lab X1 Carbon 0.4mm Nozzle" and the plate type is "Cool Plate / PLA Plate"
 2. Beneath that, select the filament type that is loaded into the printer (generally "Generic PLA")
 3. Select "Upload" in the top right corner of Bambu Studio
@@ -41,7 +41,7 @@ Setting Up Bambu Studio
 7. If supports are needed, read "Adding Supports"
 8. Other modifications to the print can be found in "Modification Settings"
 
-# Downloading and Printing
+**Downloading and Printing**
 1. At the top right corner of the page, select "Slice Plate"
 2. Once that has finished, select the arrow next to "Print Plate"
 3. Select "Export Plate Sliced File"
@@ -52,19 +52,19 @@ Setting Up Bambu Studio
 8. At the top of the screen, select the "MicroSD Card tab"
 9. Select desired file and print
 
-# Adding Supports
+**Adding Supports**
 1. On the left side nagivation, select "Support"
 2. Check the box next to "Enable Support"
 3. Use the drop down menu next to "Type" to select the type of supports desired
 
-# Modification Settings
+**Modification Settings**
 1. On the left side navigation, the "Quality" and "Strength" tabs can be seen
 2. Using the settings under these tabs, one can further modify the print. The modifications are as follows:
    - Layer Height ~ determines how thick the printed layers are
    - Infill ~ how much material you want inside your print
    - Wall Thickness ~ how thick the print walls are (adds strength)
 
-# Notes on Print Bed Adhesion
+**Notes on Print Bed Adhesion**
 - Use glue stick for print bed adhesion
 - if new layer is needed, clean the plate, apply an even layer of glue, let it dry so its not too tacky
 - Note: try to apply glue in same direction
