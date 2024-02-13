@@ -27,7 +27,9 @@ The Bambu Lab X1-Carbon 3D Printer is a high speed and quality 3D printer that h
 ## How to Use It
 **Setting Up Bambu Studio**
 1. Navigate to the link above and download the software
-2. Once the software has downloaded, select the green "All" button for filament selection and "Bambu Lab X1 Carbon 0.4mm Nozzle" for printer selection
+2. Once the software has downloaded, configure the settings
+   - Filament selection ~ "All"
+   - Printer selection ~ "Bambu Lab X1 Carbon 0.4mm Nozzle"
 
 **Preparing the Print**
 1. On the left side of the screen, ensure the printer is "Bambu Lab X1 Carbon 0.4mm Nozzle" and the plate type is "Cool Plate / PLA Plate"
