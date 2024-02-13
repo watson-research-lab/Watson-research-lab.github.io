@@ -16,7 +16,7 @@ type: book # Do not modify.
 
 The [Energetiq TLS-EQ-9-S](https://www.energetiq.com/tls-eq-9-tunable-light-source) is a laser driven tunable light source that produces a wavelength range from 380 nm to 1100 nm with an accuracy of +/- 0.5 nm
 
-**PICTURE**
+![LDTLS](/content/lab/Energetiq_TLS-EQ-9-S/IMG_1443.PNG)
 
 ## Software Needed
 - TLS Software
