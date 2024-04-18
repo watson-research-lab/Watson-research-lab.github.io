@@ -1,20 +1,18 @@
 ---
-title: 'Vitalcore: Analytics and support dashboard for medical device integration'
+title: 'Evaluating Technology to Improve Tactile Navigation & Communication in People with Visual Disabilities'
 authors:
-- Hyonyoung Choi
-- Amanda Lor
-- Mike Megonegal
-- Xiayan Ji
+- Giovanna Camacho
+- Matthew Bolton
 - admin
-- James Weimer
-- Insup Lee
-date: '2021-01-01'
-publishDate: '2023-11-09T04:01:28.497545Z'
+- Ian Pitt
+date: '2024-04-15'
+publishDate: '2024-04-16T04:01:28.497545Z'
 publication_types:
 - paper-conference
-publication: '*2021 IEEE/ACM Conference on Connected Health: Applications, Systems
-  and Engineering Technologies (CHASE)*'
-publication_short: In *CHASE*
+publication: '*Virginia Space Grant Consortium)*'
+publication_short: In *VSGC*
 url_pdf: ''
-url_slides: 'https://amandawatson.org/publication/choi-2021-vitalcore/VitalCore_Slides.pdf'
+url_slides: ''
 ---
+
+
