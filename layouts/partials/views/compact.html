@@ -28,7 +28,19 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-
+<div class="media stream-item view-compact" style="padding: 0 0 20px 0; margin: auto; max-width: 900px;";>
+  <div class="ml-3" style="padding-right: 30px;">
+    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+    {{ with $resource }}
+      {{ $image := .Resize "150x" }}
+      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+      <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}> -->
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
+            alt="{{ $item.Title }}" loading="lazy">
+      <!-- </a> -->
+    {{end}}
+  </div>
 
   <div class="media-body">
 
@@ -74,18 +86,5 @@
     </div>
     {{ end }}
 
-  </div>
-  <div class="media stream-item view-compact" style="padding: 0 0 20px 0; margin: auto; max-width: 900px;";>
-  <div class="ml-3" style="padding-right: 30px;">
-    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-    {{ with $resource }}
-      {{ $image := .Resize "150x" }}
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <!-- <a href="{{$link}}" {{ $target | safeHTMLAttr }}> -->
-        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)"
-            alt="{{ $item.Title }}" loading="lazy">
-      <!-- </a> -->
-    {{end}}
   </div>
 </div>
