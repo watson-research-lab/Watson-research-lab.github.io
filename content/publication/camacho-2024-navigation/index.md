@@ -9,7 +9,7 @@ date: '2024-04-15'
 publishDate: '2024-04-16T04:01:28.497545Z'
 publication_types:
 - paper-conference
-publication: '*Virginia Space Grant Consortium)*'
+publication: '*Virginia Space Grant Consortium*'
 publication_short: In *VSGC*
 url_pdf: ''
 url_slides: ''
