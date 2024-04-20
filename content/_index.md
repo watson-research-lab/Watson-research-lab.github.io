@@ -15,7 +15,7 @@ sections:
         color: '#090a0b'
         text_color_light: true
         video:
-          path: voltera.mp4
+          path: background-video.mp4
       css_class: d-flex fullscreen align-items-center
   - block: markdown
     content:
