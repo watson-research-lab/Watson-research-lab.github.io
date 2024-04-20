@@ -14,7 +14,7 @@ sections:
       columns: '1'
       background:
         video:
-          path : voltera.mov
+          path : voltera.mp4
           filters:
             brightness: 1
           parallax: false
