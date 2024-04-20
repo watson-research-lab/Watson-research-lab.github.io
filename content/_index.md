@@ -9,7 +9,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text: {{< video src="voltera.mp4" controls="yes" >}}
+      text: 
     design:
       columns: '1'
       background:
