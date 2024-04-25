@@ -1,7 +1,5 @@
 ---
-title: Congrats to the Winners of techIES 2023 International Session on Biomed!
-date: '2023-11-27'
-tags:
-- Lumos
-summary: We won first prize at the techIES 2023 International Session on Biomed! [Link to Article.](https://www.shanghaitech.edu.cn/eng/2023/1124/c1260a1086272/page.htm)
+title: Congrats to the Sharon Lu for winning the Charles L. Brown Deptartment of ECE Award for Excellence Award!
+date: '2024-04-25'
+summary: Sharon Lu won winning the Charles L. Brown Deptartment of ECE Award for Excellence Award. THE CHARLES L. BROWN DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING AWARD FOR EXCELLENCE is presented annually to the two 4th-year undergraduate students who are judged by the awards committee to have outstanding credentials, including being ranked in the top 20% of their class, showing evidence of interest in communications and computers, and showing evidence of professional interests and activities.
 ---
