@@ -66,6 +66,25 @@ sections:
     design:
       view: showcase
       columns: '1'
+      
+  - block: collection
+    content:
+      title: Latest Publications
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: showcase
+      columns: '1'
   
   - block: markdown
     content:
