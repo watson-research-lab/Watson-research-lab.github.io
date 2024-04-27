@@ -1,110 +1,41 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Watson Research Lab
-date: 2022-10-24
+title:
+date: 2023-1-12
 type: landing
-
 sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
   - block: about.avatar
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
+        👋 Welcome to vampir.io website.
+        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
         color: '#090a0b'
         text_color_light: true
         video:
           path: background-video.mp4
+        #color: black
+        #text_color_light: true
+        #image:
+        # Add your image background to `assets/media/`.
+        #  filename: space.jpg
+        #  filters:
+        #    brightness: 0.2
+        #    size: cover
+        #    position: center
+        #    parallax: false
+        #video: 
+        #{{< youtube w7Ft2ymGmfc >}}
+        #  # Name of video in `assets/media/`.
+        #  background.video.filename: background-video.mp4
+        #  filename: background-video.mp4
+        #filename: 
+        #{{< youtube w7Ft2ymGmfc >}}
+        #  filename: {{< video src="background-video.mp4" controls="no" >}}
+        #  # Post-processing: flip the video horizontally?
+        #  flip: false
       css_class: d-flex fullscreen align-items-center
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text: 
-    design:
-      columns: '1'
-      background:
-        video:
-          path : voltera.mp4
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-      
-  - block: hero
-    content:
-      title: |
-        Watson Research Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Watson Research Lab** site is under construction. Please check back soon.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: showcase
-      columns: '1'
-      
-  - block: collection
-    content:
-      title: Latest Publications
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: publication
-    design:
-      view: compact
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
