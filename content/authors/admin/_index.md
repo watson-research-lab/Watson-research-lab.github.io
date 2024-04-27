@@ -78,4 +78,4 @@ user_groups:
   - Faculty
 ---
 
-Amanda Watson is an Assistant Professor of Electrical and Computer Engineering at the University of Virginia. Her research interests include Wearable Technology, Internet of Medical Things, and High Performance Athletics. She leads the Watson Research Lab, which develops wearable technology for healthcare and athletic performance. She is the CEO of Luminosity Wearables a company commercializing a noninvasive continuous glucose monitor.
+Amanda Watson is an Assistant Professor of Electrical and Computer Engineering at the University of Virginia. Her research interests include Wearable Technology, Internet of Medical Things, and High Performance Athletics. She leads the Watson Research Lab, which develops wearable technology for healthcare and athletic performance. She is cofounder and CEO of Luminosity Wearables a company commercializing a noninvasive continuous glucose monitor.
