@@ -5,6 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
   - block: about.avatar
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -14,10 +27,8 @@ sections:
       background:
         color: '#090a0b'
         text_color_light: true
-        image:
-          filename: coders.jpg
-          filters:
-            brightness: 0.7
+        video:
+          path: background-video.mp4
       css_class: d-flex fullscreen align-items-center
   - block: markdown
     content:
