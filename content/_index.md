@@ -14,8 +14,10 @@ sections:
       background:
         color: '#090a0b'
         text_color_light: true
-        video:
-          path: coders.jpg
+        image:
+          filename: coders.jpg
+          filters:
+            brightness: 0.7
       css_class: d-flex fullscreen align-items-center
   - block: markdown
     content:
