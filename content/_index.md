@@ -83,7 +83,7 @@ sections:
       order: desc
       page_type: publication
     design:
-      view: showcase
+      view: compact
       columns: '1'
   
   - block: markdown
