@@ -12,11 +12,12 @@ sections:
       text: 
     design:
       spacing:
-        padding: [25rem, 0, 5rem, 0]
+        padding: [25rem, 0, 2rem, 0]
         margin: [0, 0, 0, 0]
       background:
         video:
           filename: voltera.mp4
+        text_color_light: true
       
   - block: collection
     content:
