@@ -13,7 +13,7 @@ sections:
     design:
       background:
         video:
-          filename: video.mp4
+          filename: voltera.mp4
       
   - block: hero
     content:
