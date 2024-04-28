@@ -14,17 +14,7 @@ sections:
       background:
         video:
           filename: voltera.mp4
-      
-  - block: hero
-    content:
-      title: |
-        Watson Research Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Watson Research Lab** site is under construction. Please check back soon.
+        height: 400px
   
   - block: collection
     content:
