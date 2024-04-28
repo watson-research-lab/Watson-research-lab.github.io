@@ -12,7 +12,7 @@ sections:
       text: 
     design:
       spacing:
-        padding: [25rem, 0, 1rem, 0]
+        padding: [29rem, 0, 1rem, 0]
         margin: [0, 0, 0, 0]
       background:
         video:
