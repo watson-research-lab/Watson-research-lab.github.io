@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
-      subtitle:
+      title: Welcome to the Watson Research Lab
+      subtitle: by Amanda Watson
       text: 
     design:
       background:
@@ -25,10 +25,6 @@ sections:
         <br>
         
         The **Watson Research Lab** site is under construction. Please check back soon.
-      design:
-        background:
-          video:
-            filename: voltera.mp4
   
   - block: collection
     content:
