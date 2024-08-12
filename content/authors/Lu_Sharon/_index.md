@@ -10,11 +10,12 @@ last_name: Lu
 superuser: true
 
 # Role/position
+role: Firmware Engineer at Xbox
 role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Firmware Engineer at Xbox
+  - name: University of Virginia
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
