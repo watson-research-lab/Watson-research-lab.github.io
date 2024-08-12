@@ -12,6 +12,11 @@ superuser: false
 # Role/position
 role: PhD Student
 
+
+# Optional external URL for author (replaces author detail page).
+external_link: "https://tarek-hamid.github.io"
+
+
 # Organizations/Affiliations
 organizations:
   - name: University of Virginia
