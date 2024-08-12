@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Firmware Engineer at Xbox
-role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
