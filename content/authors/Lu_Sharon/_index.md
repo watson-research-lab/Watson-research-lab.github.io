@@ -14,7 +14,7 @@ role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Virginia
+  - name: Firmware Engineer at Xbox
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
