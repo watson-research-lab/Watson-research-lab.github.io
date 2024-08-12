@@ -12,6 +12,6 @@ date: '2024-08-04'
 publishDate: '2023-11-09T04:01:28.335552Z'
 publication_types:
 - paper-conference
-publication: '*2024 AI for Social Good track of IJCAI 2024 (the 33nd International Joint Conference on Artificial Intelligence) *'
+publication: '*2024 AI for Social Good track of IJCAI 2024 (the 33nd International Joint Conference on Artificial Intelligence)*'
 url_pdf: '' 
 ---

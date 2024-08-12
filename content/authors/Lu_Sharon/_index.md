@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 Sharon Lu is an undergraduate student majoring in Computer Engineering and minoring in Engineering Business. Her research interests include wearable technology, medical devices, high performance athletics, cyber-physical systems, and machine learning. 
