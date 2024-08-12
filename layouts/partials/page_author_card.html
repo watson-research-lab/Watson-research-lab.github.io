@@ -11,8 +11,8 @@
     {{ if and (eq $site_type "Person") (eq .Params.superuser true) }}
       {{ $profile_url = site.BaseURL }}
     {{ end }}
-    {{ with $v.Params.external_link }}
-      {{ $link = . }}
+    {{ with .Params.external_link }}
+      {{ $profile_url = . }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
