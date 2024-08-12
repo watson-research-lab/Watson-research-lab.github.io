@@ -11,8 +11,8 @@
     {{ if and (eq $site_type "Person") (eq .Params.superuser true) }}
       {{ $profile_url = site.BaseURL }}
     {{ end }}
-    {{ with .Params.external_link }}
-      {{ $profile_url = . }}
+    {{ with $v.Params.external_link }}
+      {{ $link = . }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
@@ -22,7 +22,7 @@
         <img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 .Params.email }}?s=200')" alt="{{.Title}}">
       {{ else if $avatar }}
         {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-        <img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{.Title}}">
+        <img class="avatar mr-3 {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.external_link }}" alt="{{.Title}}">
       {{ end }}
 
       <div class="media-body">
