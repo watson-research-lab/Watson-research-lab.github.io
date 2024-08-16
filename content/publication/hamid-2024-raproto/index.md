@@ -1,6 +1,5 @@
 ---
-title: SpectraVue-An Interactive Web Application Enabling Rapid Data Visualization
-  and Analysis for Wearable Spectroscopy Research
+title: Raproto An Open-Source Platform for Rapid Prototyping with Wearable Devices
 authors:
 - Hamid_Tarek
 - Kimberly Helm
