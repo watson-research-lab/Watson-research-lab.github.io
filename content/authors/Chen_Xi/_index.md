@@ -32,7 +32,7 @@ interests:
   
 education:
   courses:
-    - course: Current PhD in 
+    - course: Current PhD in Electrical Engineering
       institution: UVA
       year: 2029
     - course: Bachelors in Elctraical and Electronic Engineering
