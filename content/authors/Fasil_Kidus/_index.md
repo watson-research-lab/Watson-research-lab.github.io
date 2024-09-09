@@ -10,7 +10,7 @@ last_name: Fasil
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-   - Master's Students
+   - Masters Students
 ---
 
 Kidus Fasil is an Graduate Student pursuing his Masters in Computer Engineering at the University of Virginia. His research interests include Wearable Technology, Internet of Things, and Embedded Systsems. He is a member of the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
